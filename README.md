@@ -10,7 +10,7 @@ A collection of simple Bash scripts.
 1. [Read-Menu.sh](scripts/read-menu.sh): display a menu for system information
 1. [While-Menu.sh](scripts/while-menu.sh): a repeated menu for system information
 1. [Affect.sh](scripts/affect.sh): print a spinner loader
-1. [Colorfull.sh](scripts/color.sh): provide you with the output of several colours
+1. [Colorful.sh](scripts/color.sh): provide you with the output of several colours
 1. [Convertlowercase.sh](scripts/convertlowercase.sh): convert data either from the file or standard input to lowercase
 1. [up.sh](scripts/up.sh): move up a directory in shell script
 1. [List-dir.sh](scripts/list-dir.sh): list files in a directory
@@ -44,7 +44,7 @@ A collection of simple Bash scripts.
 ## Math
 
 1. [Addition.sh](scripts/addition.sh): perform addition of two numbers
-1. [Substraction.sh](scripts/substraction.sh): perform substraction of two numbers
+1. [Subtraction.sh](scripts/subtraction.sh): perform subtraction of two numbers
 1. [Multiplication.sh](scripts/multiplication.sh): perform multiplication of two numbers
 1. [Division.sh](scripts/division.sh): perform division of two numbers
 1. [Simplecacl.sh](scripts/simplecalc.sh): a simple calculator
