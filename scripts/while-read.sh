@@ -1,4 +1,10 @@
 #!/bin/bash
+
+# Fonction pour installer les packages nécessaires
+install_packages() {
+  sudo apt update && sudo apt install -y curl jq zenity
+}
+
 # while-read: read lines from a file
 count=0
 while read; do
